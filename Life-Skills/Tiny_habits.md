@@ -1,73 +1,79 @@
 # Tiny Habits
 
-### Question 1
-The most interesting idea for me was that huge life changes do not always start with huge actions. The speaker explained how very small habits, when done consistently, can slowly transform a person's behavior and mindset. 
-I also liked the idea that people fail at habits not because they are lazy, but because they try to change too much too quickly.
+## Question 1
+
+The idea I found most interesting was that lasting improvement usually begins with actions that seem almost too small to matter. The speaker explained that habits become easier to maintain when they require very little effort at the beginning. This changed my perspective because I realized that consistency matters more than making dramatic changes all at once.
 
 ---
 
+## Question 2
 
-### Question 2
-B = MAP means Behavior happens when Motivation, Ability, and Prompt come together at the same time.
+The B = MAP model explains that a behavior happens only when three things work together: Motivation, Ability, and Prompt.
 
-- M (Motivation) → Our desire or willingness to do something  
-- A (Ability) → How easy the habit is to perform  
-- P (Prompt) → A reminder that tells us to do the habit  
+* **Motivation (M):** The reason or desire to take action
+* **Ability (A):** How easy it is to perform the action
+* **Prompt (P):** The signal that reminds us to act
 
-We can make habits easier by reducing difficulty and attaching them to simple prompts instead of depending only on motivation. 
-For example, instead of planning to study for 3 hours daily, starting with solving just one coding question after breakfast is easier to maintain.
-
----
-
-### Question 3
-Celebrating or “Shining” after completing a habit is important because it creates positive emotions in the brain. These positive feelings help the brain connect happiness with the action, making it more likely that the habit will be repeated again. 
-Even small celebrations help build consistency and make habits feel rewarding instead of stressful.
+One useful lesson from this model is that motivation alone is unreliable because it changes frequently. Building habits becomes easier when the task is simple and linked to an existing routine. For example, instead of planning to code for several hours every day, starting with writing one small program after class can be more sustainable.
 
 ---
 
+## Question 3
 
-### Question 4
-The most interesting idea in the video was how small improvements made consistently every day can create huge long-term results. I liked the comparison that becoming just 1% better daily may seem small in the beginning, but over time the improvements compound and create a massive difference in skills, confidence, and overall growth.
-
----
-
-## 4. Book Summary of Atomic Habits
-
-### Question 5
-The book explains that habits are strongly connected to identity. Instead of focusing only on goals, we should focus on becoming the type of person I want to be. For example, instead of saying “I want to learn coding,” a my thought should be, “I am becoming a disciplined programmer.” Repeating habits strengthens that identity over time.
+The concept of celebrating small wins after completing a habit stood out to me because it connects progress with positive emotions. When people acknowledge even small achievements, the habit feels more rewarding and enjoyable. This increases the likelihood of repeating the action and turning it into a regular behavior.
 
 ---
 
-### Question 6
-The book suggests making habits easier by reducing friction and simplifying the process. Small actions are easier to repeat consistently. It also recommends preparing the environment in advance, breaking habits into tiny steps, and making the habit convenient to perform. When a habit feels easy, there is a higher chance of sticking to it regularly.
+## Question 4
+
+One lesson I found valuable was the idea that progress compounds over time. Small daily improvements may not show immediate results, but repeated effort gradually builds skills and confidence. This mindset encourages patience and reminds us that long-term success is usually created through steady actions rather than sudden breakthroughs.
 
 ---
 
-### Question 7
-The book suggests making bad habits harder by increasing friction and removing easy access to them. For example, turning off notifications, keeping distracting apps away, or creating obstacles between yourself and the habit can reduce the chances of repeating it. The more difficult or inconvenient the habit becomes, the less likely it is to continue.
+# Atomic Habits – Book Summary
+
+## Question 5
+
+A major idea from the book is that habits shape identity. Instead of concentrating only on goals, people should focus on becoming the type of person they want to be. For example, rather than saying “I want to become good at programming,” I can think of myself as someone who practices coding regularly and values continuous learning.
 
 ---
 
-## 5. Reflection
+## Question 6
 
-### Question 8
-One habit I would like to do more of is consistently implementing what I learn in theory through coding.
+The book emphasizes making good habits simple and accessible. When a task feels easy to start, people are more likely to repeat it consistently. Creating a supportive environment, reducing unnecessary effort, and breaking larger goals into smaller actions can help habits become part of everyday life.
+
+---
+
+## Question 7
+
+To reduce unwanted habits, the book recommends making them less convenient and less visible. Small changes such as limiting access, reducing triggers, or introducing obstacles can lower the chance of repeating those behaviors. Creating a more intentional environment helps maintain better self-control.
+
+---
+
+# Reflection
+
+## Question 8
+
+One habit I would like to improve is applying what I learn through regular hands-on practice instead of only consuming information.
 
 Steps I can take:
-1. Keep my laptop and coding platform ready before starting the day  
-2. Fix a small daily target like solving one or two concepts instead of aiming too high  
-3. Study at the same time every day to create consistency  
-4. Track my progress to make the habit satisfying  
-5. Celebrate small wins whenever I solve a difficult problem or understand a new concept  
+
+1. Allocate a fixed amount of time each day for implementation
+2. Begin with small practical tasks rather than large projects
+3. Maintain a routine that supports consistency
+4. Track completed work to stay motivated
+5. Reflect on progress and reward small achievements
 
 ---
 
-### Question 9
-One habit I would like to reduce is wasting time scrolling on social media.
+## Question 9
+
+One habit I would like to reduce is spending unnecessary time on social media and short-form content.
 
 Steps I can take:
-1. Turn off unnecessary notifications  
-2. Keep distracting apps away from the home screen  
-3. Use app timers or website blockers during study hours  
-4. Replace scrolling with another activity like coding practice or reading  
-5. Remind myself how unproductive scrolling affects my goals and focus  
+
+1. Limit screen time during focused work sessions
+2. Keep distracting apps away from immediate access
+3. Replace idle scrolling with productive activities
+4. Set clear goals before opening social media
+5. Regularly remind myself of how better time management supports my long-term goals
