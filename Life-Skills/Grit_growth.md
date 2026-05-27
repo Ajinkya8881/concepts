@@ -1,46 +1,46 @@
 # Grit and Growth Mindset - Life Skills
 
-### Question 1
-The video explains grit as a combination of passion and consistency towards long term goals. I learnt that talent alone is not enough, people who keep working hard, stay disciplined, and don’t give up after failures are the ones who achieve success.
+## Question 1
+
+The video describes grit as the ability to stay committed to long-term goals through sustained effort and determination. One important lesson I took away is that success is not achieved through talent alone. People who remain disciplined, continue improving, and keep moving forward despite setbacks are more likely to reach their goals.
 
 ---
 
+## Question 2
 
-### Question 2
-The video talks about how people with a growth mindset believe they can improve their abilities through learning and effort. A very good point that was made was, instead of being afraid of failure, they treat mistakes as opportunities to learn and become better over time.
-
----
-
-
-### Question 3
-Internal Locus of Control means believing that our actions, decisions, and efforts have a major impact on our life and results.  
-The key point of the video is that people stay more motivated when they focus on what they can control instead of blaming luck, situations, or other people for everything.
+According to the video, a growth mindset is the belief that abilities and skills can develop through continuous learning and practice. A key takeaway for me was that failure should not be viewed as something negative; instead, it should be treated as valuable feedback that helps individuals improve and grow over time.
 
 ---
 
+## Question 3
 
-### Question 4
-Key points mentioned in the video to build a growth mindset:
-
-1. Believe that skills and intelligence can improve with effort  
-2. Accept challenges instead of avoiding them, stop fearing failure  
-3. Learn from criticism and feedback 
-4. Focus on the learning process, not only results   
-5. Develop consistent habits  
-6. Surround yourself with people who encourage growth  
-7. Keep learning continuously  
+Internal Locus of Control refers to the idea that an individual’s choices, actions, and level of effort influence the outcomes they experience in life. The video emphasized that people become more motivated and productive when they focus on factors within their control rather than placing responsibility on luck, circumstances, or external influences.
 
 ---
 
+## Question 4
 
-### Question 5
-Some actions I will take to build a growth mindset as a software developer are:
+### Strategies for Developing a Growth Mindset
 
-- Take full responsibility for my learning instead of depending completely on others  
-- Stay consistent and keep working on a problem until I fully understand or solve it  
-- Put more effort into difficult topics because effort improves understanding  
-- Avoid blindly copying code and make sure I understand every line I write  
-- Stay calm and focused during challenging situations instead of panicking  
-- Use resources like documentation, Google, Stack Overflow, Github Issues, and the internet to research problems before asking for help  
-- Take ownership of projects and ensure they are completed properly  
-- Build confidence and maintain a positive attitude while learning new things  
+* Recognize that abilities can improve through practice and dedication
+* Be willing to face challenges instead of avoiding difficult situations
+* Accept constructive feedback and use it for improvement
+* Give importance to learning and progress rather than only final outcomes
+* Build routines that encourage consistency and discipline
+* Spend time with people who inspire learning and self-development
+* Maintain curiosity and continue expanding knowledge
+
+---
+
+## Question 5
+
+### Actions I Plan to Follow as a Software Developer
+
+* Take ownership of my learning journey and actively seek improvement
+* Stay persistent while solving problems instead of giving up quickly
+* Invest more effort into difficult concepts to strengthen understanding
+* Focus on understanding code logic instead of copying solutions directly
+* Remain composed and approach challenges with a problem-solving mindset
+* Use technical resources such as documentation, online research, community forums, and issue trackers before requesting help
+* Complete projects with responsibility and attention to quality
+* Build self-confidence and maintain a positive approach while learning new technologies and skills
