@@ -1,54 +1,66 @@
 # Energy Management
 
-### Question 1
-Some activities that make me relax and stay in the Calm quadrant are listening to music, taking short walks, talking to some friends or family, taking coffee breaks between study sessions, light exercise, and sitting quietly for a few minutes to relax and reset.
+## Question 1
+
+Activities that help me stay in the **Calm quadrant** are those that allow me to recharge without feeling distracted. Some examples are listening to music, taking short breaks during study sessions, spending time with friends or family, going for a light walk, drinking coffee occasionally, and simply sitting quietly for a few minutes to clear my mind.
 
 ---
 
-### Question 2
-I usually enter the Stress quadrant when preparing for deadlines, handling multiple responsibilities at once, or facing situations where I need to perform outside my comfort zone.
+## Question 2
+
+I generally move into the **Stress quadrant** during periods of high pressure, especially when deadlines are close or when I am managing several tasks together. I also experience stress when entering unfamiliar situations that require learning quickly or performing under expectations.
 
 ---
 
-### Question 3
-I understand I am in the Excitement quadrant when I feel focused and motivated. Time passes quickly, challenges feel enjoyable, and I feel engaged instead of pressured or exhausted.
+## Question 3
+
+I recognize that I am in the **Excitement quadrant** when I feel energized and deeply involved in what I am doing. I become more productive, stay motivated, and lose track of time because the work feels interesting rather than overwhelming. Challenges feel engaging instead of stressful.
 
 ---
 
-### Question 4
-I learnt that:
-- Sleep should be treated as an important priority  
-- Sleep supports physical and mental recovery   
-- Lack of sleep reduces focus and performance  
-- Sleep helps emotional balance and mental well-being  
+## Question 4
+
+Some important lessons I learned about sleep are:
+
+* Sleep plays a major role in maintaining both physical and mental health
+* Proper rest improves recovery and overall performance
+* Poor sleep can negatively affect concentration and decision-making
+* Good sleep habits contribute to emotional stability and better daily functioning
 
 ---
 
-### Question 5
-Some steps I have decided to take:
-- Try to sleep and wake up at consistent times  
-- Reduce screen time before sleeping  
-- Avoid caffeine late in the day  
-- Exercise regularly  
-- Follow a relaxing night routine  
+## Question 5
+
+To improve my sleep habits, I plan to:
+
+* Maintain a more consistent sleep schedule
+* Limit phone and screen usage before bedtime
+* Avoid consuming caffeine late in the evening
+* Include some physical activity during the day
+* Develop a relaxing routine before sleeping
 
 ---
 
-### Question 6
-- Exercise improves memory and learning  
-- Exercise increases focus and concentration  
-- Regular physical activity benefits mental health  
-- Exercise improves mood and energy  
-- Exercise supports brain growth and health  
-- Exercise improves long-term brain performance  
+## Question 6
+
+Key points I learned about exercise and brain performance:
+
+* Physical activity supports learning and memory retention
+* Exercise helps improve attention and productivity
+* Staying active positively affects mental well-being
+* Regular movement helps maintain energy levels
+* Exercise supports healthy brain development
+* Long-term physical activity contributes to better cognitive performance
 
 ---
 
-### Question 7
-Some steps I can (and will try) taking:
-- Go for regular walks  
-- Add stretching during breaks  
-- Schedule exercise into daily routine  
-- Choose enjoyable physical activities  
-- Reduce sitting time  
-- Focus on regularity instead of intensity  
+## Question 7
+
+Some actions I want to include in my routine are:
+
+1. Take short walks regularly
+2. Add simple stretching exercises between study sessions
+3. Reserve a fixed time for physical activity
+4. Choose forms of exercise that I enjoy and can sustain
+5. Avoid staying seated for long periods
+6. Focus on building consistency rather than pushing for high intensity
